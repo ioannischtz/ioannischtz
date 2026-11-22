@@ -30,6 +30,9 @@ Used by the **Sui Stack Messaging SDK(beta)** and the **Walrus Console** project
 I am especially proud of the [Actor Object pattern](https://github.com/MystenLabs/sui-groups/blob/main/docs/Extending.md#step-2-the-actor-object-pattern) I came up with, which enables third-party 
 smart-contracts to safely extend its core functionality.
 
+Links:
+- [repo](https://github.com/MystenLabs/sui-groups)
+
 ### Walrus Console
 A Dropbox-like application built on top of the [Walrus](https://docs.wal.app/) Decentralized Storage Protocol
 I got the chance to take on the Tech Lead Role for the first time, leading 7 Software Engineers.
