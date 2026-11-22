@@ -34,7 +34,7 @@ Links:
 - [repo](https://github.com/MystenLabs/sui-groups)
 
 ### Walrus Console
-A Dropbox-like application built on top of the [Walrus](https://docs.wal.app/) Decentralized Storage Protocol
+A Dropbox-like application built on top of the [Walrus](https://docs.wal.app/) Decentralized Storage Protocol.
 I got the chance to take on the Tech Lead Role for the first time, leading 7 Software Engineers.
 My responsibilities spanned across Technical/Architectural designs & decision making, project management, extensive code-reviews
 and mentoring.
